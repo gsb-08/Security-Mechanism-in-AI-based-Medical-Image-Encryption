@@ -1,6 +1,6 @@
 
 
-# 🛡️ Security Mechanism in AI-Based Medical Image Encryption
+# 🛡️ Security Mechanism in AI-Based Medical Image Encryption(30% implemented till now)
 
 ## 🏥 Project Overview
 
